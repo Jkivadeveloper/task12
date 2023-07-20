@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jkivadeveloper/task12.git/static/css/main.2161ed7a.css",
+    "main.js": "/Jkivadeveloper/task12.git/static/js/main.b15af25e.js",
+    "index.html": "/Jkivadeveloper/task12.git/index.html",
+    "main.2161ed7a.css.map": "/Jkivadeveloper/task12.git/static/css/main.2161ed7a.css.map",
+    "main.b15af25e.js.map": "/Jkivadeveloper/task12.git/static/js/main.b15af25e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2161ed7a.css",
+    "static/js/main.b15af25e.js"
+  ]
+}
